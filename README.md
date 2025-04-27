@@ -2,6 +2,10 @@
 
 This project integrates **Wazuh**, **ELK Stack (Elasticsearch, Logstash, Kibana)**, and **Splunk** to provide a comprehensive solution for network security monitoring. The system is designed to collect, process, store, and analyze security event logs from endpoints, network devices, and servers to detect threats, respond to incidents, and ensure continuous security monitoring.
 
+## Contributors:
+- **Nishikanta Padhihari** - Project Lead, Developer: Designed and implemented the integration of Wazuh, ELK, and Splunk. Responsible for overall system architecture and deployment.
+- **Adeeba Nizam** - Co-Developer, Security Analyst: Worked on configuring Wazuh agents, setting up ELK Stack, and implementing Splunk integration for advanced threat detection and alerting.
+
 ## Features:
 - **Wazuh HIDS (Host Intrusion Detection System)** for monitoring endpoints and network devices.
 - **ELK Stack** for centralized log management, processing, and real-time visualization.
