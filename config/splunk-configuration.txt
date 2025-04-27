@@ -1,0 +1,6 @@
+1. Install Splunk and set up the Universal Forwarder on your system.
+2. Configure Splunk to receive logs from Wazuh:
+   - Navigate to **Settings** > **Data Inputs** > **HTTP Event Collector** and create a new HTTP input.
+3. Configure the **Wazuh Manager** to forward logs to Splunk via HTTP or another appropriate method.
+4. Create custom correlation rules and alerts for enhanced threat detection.
+5. Use Splunk’s **Machine Learning Toolkit** for anomaly detection.
